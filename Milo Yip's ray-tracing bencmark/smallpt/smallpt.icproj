@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="gb2312"?>
+<VisualStudioProject
+	ProjectType="Intel C++ Project"
+	Version="11.1"
+	Name="smallpt"
+	ProjectGUID="{6E4285FA-962F-4114-9267-1DC27C795ABC}"
+	VCNestedProjectGUID="{34BDA74B-A48B-49B1-9892-AF33C5ABD267}"
+	VCNestedProjectFileName="smallpt.vcproj">
+	<Configurations>
+		<Configuration
+			Name="Release|Win32">
+			<Tool
+				Name="CppCmplrTool"
+				GlobalOptimizations="true"
+				OptimizeForWindowsApplication="true"
+				UseProcessorExtensions="6"/>
+		</Configuration>
+	</Configurations>
+	<Files/>
+</VisualStudioProject>

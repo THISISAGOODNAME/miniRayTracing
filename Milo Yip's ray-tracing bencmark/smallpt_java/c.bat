@@ -1,0 +1,1 @@
+@javac smallpt.java
