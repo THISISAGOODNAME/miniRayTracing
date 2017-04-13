@@ -1,3 +1,16 @@
+####################################
+######## OS generated files ########
+####################################
+.DS_Store
+.DS_Store?
+*.swp
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
 CMakeCache.txt
 CMakeFiles
 CMakeScripts
@@ -5,3 +18,8 @@ Makefile
 cmake_install.cmake
 install_manifest.txt
 CTestTestfile.cmake
+
+### other
+[Bb]uild/
+.idea/
+cmake-build-debug/
