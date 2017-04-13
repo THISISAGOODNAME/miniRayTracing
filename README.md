@@ -3,6 +3,8 @@
 
 ## c++版
 
+[http://www.kevinbeason.com/smallpt/](http://www.kevinbeason.com/smallpt/)
+
 ```bash
 # 开启openMP
 g++ -O3 -fopenmp smallpt.cpp -o smallpt 
