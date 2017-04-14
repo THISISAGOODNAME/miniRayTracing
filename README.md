@@ -31,8 +31,11 @@ http://aicdg.com/miniRayTracing/smallpt-asmjs/smallpt.html?spp=100
 ```
 
 > spp同为100的情况下
+
 > 在chrome浏览器上，h5和asm.js两个版本表现十分接近，没有区别
+
 > 在edge浏览器上，asm.js版本渲染完成时h5版本只完成了29%，两者差异巨大
+
 > 结论：如果条件允许，不考虑应用程序容量的情况下，可以把一些重度计算交给asm.js完成
 
 # 其他语言版本
