@@ -40,5 +40,5 @@ http://aicdg.com/miniRayTracing/smallpt-asmjs/smallpt.html?spp=100
 
 # 其他语言版本
 
-[叶劲峰的其他语言fork以及性能比较](http://www.cnblogs.com/miloyip/archive/2010/07/07/languages_brawl_GI.html)
+[叶劲峰老师的其他语言fork以及性能比较](http://www.cnblogs.com/miloyip/archive/2010/07/07/languages_brawl_GI.html)
 
